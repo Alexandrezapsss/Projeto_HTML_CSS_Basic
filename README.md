@@ -10,3 +10,5 @@ Usei para colocar em pratica HTMl e semântica do mesmo.
 * Estruturar HTML
 * Semântica
 * Básico de CSS.
+
+### Desenvolvido acompanhando os ensinos do Curso de Web Desenvolvimento pela UDEMY.
