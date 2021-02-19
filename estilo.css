@@ -1,1 +1,54 @@
+body {
+    background: #d2d2c1 url(img_bella/fundo.png);
+    font: 16px Arial, Helvetica, sans-serif;
+    padding: 0% 10%;
+    margin-top: none;
+    width: 900px;
 
+}
+
+#principal {
+    width: 900px;
+    padding-top: 0px;
+}
+
+#menu {
+    background: #c5c5b2;
+    padding: 18px;
+    
+}
+
+#rodape {
+    padding: 0px;
+    text-align: center;
+}
+
+.centralizar {
+    text-align: center;
+    background: #c5c5b2;
+}
+
+#conteudo {
+    background: #cfcf9c;
+    padding: 5px;
+    text-align: center;
+    text-decoration-color: black;
+}
+
+#contato{
+    text-align: justify;
+    background: #cfcf9c;
+    padding: 5px;
+}
+
+#img-conteudo {
+    border: 8px solid rgb(126,115,15);
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(126, 115, 15);
+    padding: 10px;
+    margin: 49px;
+}
